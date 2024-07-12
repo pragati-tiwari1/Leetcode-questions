@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 ## String
 |  |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -48,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
