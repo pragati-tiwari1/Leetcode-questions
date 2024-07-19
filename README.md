@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0015-3sum) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -109,5 +111,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
