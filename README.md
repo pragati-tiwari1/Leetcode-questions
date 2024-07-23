@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Tree
 |  |
