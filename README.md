@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 ## Tree
 |  |
 | ------- |
