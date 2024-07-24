@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0079-word-search) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
@@ -171,4 +174,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
