@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
@@ -168,5 +169,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
