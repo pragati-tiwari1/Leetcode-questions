@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0031-next-permutation) |
+| [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Sorting
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
