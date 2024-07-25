@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -187,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0079-word-search) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
