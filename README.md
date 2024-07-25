@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
