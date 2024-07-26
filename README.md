@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Trie
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -193,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
