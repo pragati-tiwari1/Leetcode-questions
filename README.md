@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Two Pointers
@@ -157,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
 |  |
@@ -195,8 +200,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
