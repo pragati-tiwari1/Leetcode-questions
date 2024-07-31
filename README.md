@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
