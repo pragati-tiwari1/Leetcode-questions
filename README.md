@@ -305,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
