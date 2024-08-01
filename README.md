@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0907-koko-eating-bananas](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -215,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 ## Matrix
 |  |
 | ------- |
@@ -278,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
