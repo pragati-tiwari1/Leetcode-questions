@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0312-burst-balloons) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
@@ -317,4 +320,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
