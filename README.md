@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0735-asteroid-collision) |
@@ -334,5 +336,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
