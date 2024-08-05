@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0079-word-search) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -342,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 ## Queue
