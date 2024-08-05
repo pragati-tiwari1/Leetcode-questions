@@ -1,30 +1,21 @@
 class Solution {
-    class Info implements Comparable<Info>{
-        int n;
-        int idx;
-        Info(int n,int idx){
-            this.n = n;
-            this.idx = idx;
-        }
-        @Override
-        public int compareTo(Info i2){
-            return i2.n-this.n;
-        }
-    }
     public int[] maxSlidingWindow(int[] nums, int k) {
-        PriorityQueue<Info> pq = new PriorityQueue<>();
         int n = nums.length;
         int ans[] = new int[n-k+1];
-        for(int i=0;i<k;i++){
-            pq.add(new Info(nums[i],i));
-        }
-        ans[0] = pq.peek().n;
-        for(int i=k;i<n;i++){
-            pq.add(new Info(nums[i],i));
-            while(!pq.isEmpty() && pq.peek().idx <= i-k){
-                pq.remove();
+        int j =0;
+        Deque<Integer> q = new ArrayDeque<>();
+        for(int i =0;i<n;i++){
+            if(!q.isEmpty() && i-k == q.peek()){
+                q.remove();
             }
-            ans[i-k+1] = pq.peek().n;
+            while(!q.isEmpty() && nums[q.peekLast()] <= nums[i]){
+                q.removeLast();
+            }
+            q.addLast(i);
+            if(i>=k-1){
+                ans[j] = nums[q.peek()];
+                j++;
+            }
         }
         return ans;
     }
