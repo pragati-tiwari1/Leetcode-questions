@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0229-majority-element-ii) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 ## Greedy
 |  |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
@@ -349,4 +352,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
