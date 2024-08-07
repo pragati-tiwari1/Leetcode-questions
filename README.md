@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0273-integer-to-english-words](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0273-integer-to-english-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0726-number-of-atoms) |
@@ -378,4 +379,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
