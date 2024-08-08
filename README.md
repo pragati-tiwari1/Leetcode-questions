@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Stack
 |  |
 | ------- |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -400,4 +402,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
