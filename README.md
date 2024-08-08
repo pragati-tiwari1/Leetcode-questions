@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0620-not-boring-movies) |
 | [1827-invalid-tweets](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1827-invalid-tweets) |
 ## Sliding Window
 |  |
