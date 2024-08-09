@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Bit Manipulation
 |  |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Matrix
 |  |
 | ------- |
