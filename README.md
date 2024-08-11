@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1300-critical-connections-in-a-network) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Two Pointers
 |  |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
@@ -420,4 +424,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
