@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Trie
 |  |
 | ------- |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -446,8 +449,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 <!---LeetCode Topics End-->
