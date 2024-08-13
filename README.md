@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Trie
 |  |
 | ------- |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -439,4 +442,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 <!---LeetCode Topics End-->
