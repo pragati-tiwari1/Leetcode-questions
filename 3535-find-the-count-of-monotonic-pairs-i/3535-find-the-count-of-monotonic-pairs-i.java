@@ -1,35 +1,29 @@
 class Solution {
     //TAKEN HELP
     public int countOfPairs(int[] nums) {
-        long ans = helper(0,0,50,nums);
-        return (int)ans;
-    }
-    HashMap<String,Long> map = new HashMap<>();
-    public long helper(int i, int s, int e , int []nums){
-        if(i == nums.length){
-            return 1;
+        int n = nums.length;
+        int M = 1000000007;
+        int dp[][] = new int[n+1][55];
+        for(int j =0;j<=nums[0];j++){
+            dp[0][j] = 1;
         }
-        String key = s+"-"+e+"-"+i;
-        if(map.containsKey(key)){
-            return map.get(key);
-        }
-        int j = s;
-        int k = e;
-        long ans =0;
-        while(j<=nums[i] && k>=0){
-            int sum = j+k;
-            if(sum == nums[i]){
-                ans = (ans+ helper(i+1,j,k,nums))%1000000007;
-                j++;
-                k--;
+        for(int i =1;i<n;i++){//for all numbers
+            for(int curr_nums=0;curr_nums<=nums[i];curr_nums++){
+                int ways = 0;
+                for(int prev_nums = 0;prev_nums<=50;prev_nums++){
+                    if(curr_nums>=prev_nums && nums[i] - curr_nums <= nums[i-1] - prev_nums){
+                        ways = (ways%M + dp[i-1][prev_nums]%M)%M;
+                    }
+                }
+                dp[i][curr_nums] = ways;
             }
-            else if(sum < nums[i]){
-                j++;
-            }else{
-                k--;
-            }
+
         }
-        map.put(key,ans);
+        int ans =0;
+        for(int i = 0;i<=50;i++){
+            ans = (ans + dp[n-1][i]%M)%M;
+        }
         return ans;
     }
+    
 }
