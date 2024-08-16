@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0890-lemonade-change](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
