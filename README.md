@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3469-maximum-height-of-a-triangle](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3469-maximum-height-of-a-triangle) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3469-maximum-height-of-a-triangle) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Strongly Connected Component
 |  |
