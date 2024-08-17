@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
