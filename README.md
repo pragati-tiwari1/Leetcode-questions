@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## String
 |  |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Trie
 |  |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Graph
 |  |
@@ -465,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3469-maximum-height-of-a-triangle) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Strongly Connected Component
 |  |
