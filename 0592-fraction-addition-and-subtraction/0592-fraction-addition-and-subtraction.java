@@ -3,7 +3,6 @@ class Solution {
         char[] arr = exp.toCharArray();
         ArrayList<Integer> num = new ArrayList<>();
         ArrayList<Integer> den = new ArrayList<>();
-
         for(int i =0;i<arr.length;){
             if(arr[i] == '/'){
                 int no =0;
@@ -11,7 +10,6 @@ class Solution {
                 int p = 1;
                 while(i<arr.length && arr[i]!= '-' && arr[i] != '+' ){
                     no = no*p+ (arr[i]-'0');
-                   // System.out.println(no);
                     i++;
                     p = p*10;
                 }
@@ -27,7 +25,6 @@ class Solution {
                     i++;
                     p = p*10;
                 }
-                
                 num.add(no*-1);
                  continue;
             }
@@ -42,7 +39,6 @@ class Solution {
                 }
                 num.add(no);
                continue;
-
             }
             else if(i ==0){
                 int no =0;
@@ -53,18 +49,14 @@ class Solution {
                     p = p*10;
                 }
                 num.add(no);
-               // System.out.println(no);
             }
         }
         int lcm = lcm(den);
         int total=0;
-    // System.out.println(den.size());
         for(int i =0;i<den.size();i++){
-          
           total +=  lcm/den.get(i)*num.get(i);
         }
         int gcd = gcd(Math.abs(total),Math.abs(lcm));
-          System.out.println(gcd);
         total = total/gcd;
         lcm = lcm/gcd;
         String n = String.valueOf(total);
