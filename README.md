@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1300-critical-connections-in-a-network) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Two Pointers
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0721-accounts-merge](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
 ## Biconnected Component
 |  |
 | ------- |
