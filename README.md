@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2727-number-of-senior-citizens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2727-number-of-senior-citizens) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2846-robot-collisions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2846-robot-collisions) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
 ## Binary Search
