@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1300-critical-connections-in-a-network) |
+| [1484-linked-list-in-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -398,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1484-linked-list-in-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2171-second-minimum-time-to-reach-destination) |
