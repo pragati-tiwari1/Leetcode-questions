@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
 ## Dynamic Programming
 |  |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
