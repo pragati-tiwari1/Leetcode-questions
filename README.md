@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0312-burst-balloons) |
 | [0516-longest-palindromic-subsequence](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0923-super-egg-drop](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0923-super-egg-drop) |
 | [1196-filling-bookcase-shelves](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
+| [0923-super-egg-drop](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0923-super-egg-drop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Tree
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
+| [0923-super-egg-drop](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0923-super-egg-drop) |
 | [1240-stone-game-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1240-stone-game-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
