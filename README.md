@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-super-egg-drop](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0923-super-egg-drop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 ## Counting
 |  |
