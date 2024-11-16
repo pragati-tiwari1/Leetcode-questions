@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
