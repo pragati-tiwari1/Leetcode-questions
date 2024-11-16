@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## String
 |  |
 | ------- |
