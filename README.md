@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2846-robot-collisions) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3516-design-neighbor-sum-service) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
