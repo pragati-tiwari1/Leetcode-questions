@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1240-stone-game-ii) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
