@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1300-critical-connections-in-a-network](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3189-find-champion-ii](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Breadth-First Search
 |  |
@@ -450,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
@@ -460,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pragati-tiwari1/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Union Find
 |  |
 | ------- |
