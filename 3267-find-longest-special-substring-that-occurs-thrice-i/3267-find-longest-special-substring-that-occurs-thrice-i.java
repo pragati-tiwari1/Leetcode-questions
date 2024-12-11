@@ -11,7 +11,6 @@ class Solution {
                 int val = map.get(s.substring(i,j+1));
                 if(val >= 3){
                     max = Math.max(j-i+1,max);
-                    System.out.println(s.substring(i,j+1));
                 }
             }
         }
